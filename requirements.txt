@@ -1,0 +1,17 @@
+langchain-core
+langchain-community
+langchain-google-genai
+google-generativeai
+huggingface-hub
+beautifulsoup4
+requests
+python-dotenv
+nltk
+markdown2
+pdfkit
+langchain-text-splitters
+requests-html
+langchain-embeddings
+streamlit
+requests
+python-dotenv
